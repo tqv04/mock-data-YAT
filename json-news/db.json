@@ -1,0 +1,244 @@
+{
+  "category": [
+    {
+       "id": "1",
+      "name": "News",
+      "sub": ["Politics", "Society", "Traffic", "Local News"],
+       "href": "/"
+    },
+    {
+      "id": "2",
+      "name": "World",
+      "sub": ["Asia", "Europe", "Americas", "Middle East"],
+       "href": "/"
+    },
+    {
+      "id": "3",
+      "name": "Business",
+      "sub": ["Finance", "Economy", "Stock Market", "Startups"],
+       "href": "/"
+    },
+    {
+      "id": "4",
+      "name": "Sports",
+      "sub": ["Football (Soccer)", "Local Sports", "International Sports"] ,
+       "href": "/"
+    },
+    {
+      "id": "5",
+      "name": "Entertainment",
+      "sub": ["Music", "Movies", "Celebrities"],
+       "href": "/"
+    },
+    {
+      "id": "6",
+      "name": "Technology",
+      "sub": ["Innovation", "Environment", "Space"],
+      "href": "/"
+    },
+    {
+      "id": "7",
+      "name": "Automotive",
+      "sub": ["Cars", "Motorbikes", "Reviews"],
+      "href": "/"
+    },
+    {
+      "id": "8",
+      "name": "Lifestyle",
+      "sub": ["Family", "Home & Garden", "Food"],
+      "href": "/"
+    },
+    {
+      "id": "9",
+      "name": "Jobs",
+     "sub": ["Job Listings", "Career Advice", "CV & Interview Tips"],
+      "href": "/"
+    }
+  ],
+  "trending": [
+    {
+      "id": "1",
+      "img": "https://vanhoaduongpho.com/storage/news/nhin-lai-su-nghiep-su-thinh-vuong-va-loi-song-cua-bieu-tuong-nhac-pop-bruno-mars_2646.jpg",
+      "category": "Entertainment",
+      "time": "6 years ago",
+      "title": "Nhìn lại sự nghiệp của ca sĩ biểu tượng - Bruno Mars"
+    },
+    {
+      "id": "2",
+      "img": "https://storage.googleapis.com/ops-shopee-files-live/live/shopee-blog/2021/03/Ladies-Night-Saigon-1.jpg",
+      "category": "Lifestyle",
+      "time": "6 years ago",
+      "title": "Top 5 Ladies Night Saigon với những ưu đãi cực chất dành riêng cho hội chị em "
+    },
+    {
+      "id": "3",
+      "img": "https://media.vietnamplus.vn/images/7255a701687d11cb8c6bbc58a6c80785bde60fb689f1c375e9618d60ac5a8b87920205d99be70d58a745abeedb5273e936be7d1871dd6a8121cb6270552a37c6/2610Thutuong2_1.jpg",
+      "category": "Politics",
+      "time": "5 years ago",
+      "title": "Thủ tướng phát biểu tại Hội nghị Cấp cao ASEAN"
+    },
+    {
+      "id": "4",
+      "img": "https://cafebiz.cafebizcdn.vn/162123310254002176/2020/8/28/photo-10-1598580659245270464913.jpg",
+      "category": "Technology",
+      "time": "2 years ago",
+      "title": "Elon Musk tiết lộ tham vọng mới với trí tuệ nhân tạo"
+    },
+    {
+      "id": "5",
+      "img": "https://media.vietnamplus.vn/images/7255a701687d11cb8c6bbc58a6c807858941954785440046868fa6e1069a36ade420c3fbf65e7dd080f7ba97f2cd54ee50d6033a057f521b7c5b305fc5ae83fc/giai_chay_marathon_3.jpg",
+      "category": "Sports",
+      "time": "3 years ago",
+      "title": "Giải chạy bộ Hà Nội thu hút hàng nghìn vận động viên"
+    },
+    {
+      "id": "6",
+      "img": "https://images2.thanhnien.vn/528068263637045248/2023/10/30/messi2-1698676555246691603244.jpeg",
+      "category": "Sports",
+      "time": "2 years ago",
+      "title": "Messi giành Quả Bóng Vàng lần thứ 8"
+    },
+    {
+      "id": "7",
+      "img": "https://images2.thanhnien.vn/528068263637045248/2024/2/5/2024-02-05t211635z762825826up1ek251n3legrtrmadp3soccer-england-bre-mci-report-1707172666490818187657.jpg",
+      "category": "Sports",
+      "time": "1 year ago",
+      "title": "Foden tỏa sáng giúp Man City giành chiến thắng quan trọng"
+    }
+    
+  ],
+  "postmain":[
+    {
+      "id": "1",
+      "img": "https://imgs.search.brave.com/H75Z6MRnvtUUBdWWLiCjEebpBtNkdAiUVjcZgo3J-2k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/d2hpdGVob3VzZS5n/b3Yvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDEvRG9uYWxk/LUotVHJ1bXAuanBn",
+      "category": "Politics",
+      "time":"3 years ago",
+      "title": "U.S. President Trump",
+      "subtitle": "After meeting with Zelenskyy, Trump expresses doubts Putin is willing to end the Ukraine war"
+    },
+    {
+      "id": "2",
+      "img": "https://www.highsnobiety.com/static-assets/dato/1632508221-90s-hip-hop-fashion-feature.jpg",
+      "category": "Lifestyle",
+      "time":"7 years ago",
+      "title": "90s Hip-Hop Fashion",
+      "subtitle": "Brands & Trends That Defined the Decade"
+    },
+    {
+      "id": "3",
+      "img": "https://c.files.bbci.co.uk/80a7/live/b7fa00a0-ee4a-11ef-bc86-ad466770a69d.jpg",
+      "category": "Entertainment",
+      "time":"1 years ago",
+      "title": "Central Cee Breaks Record with 7th Mobo Award",
+      "subtitle": "Central Cee makes history at Mobo Awards after seventh win"
+    },
+    {
+      "id": "4",
+      "img": "https://live-production.wcms.abc-cdn.net.au/0f0d9c84ed54eb8ef0ee3741ffee36e5?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=402&width=862&height=485",
+      "category": "Technology",
+      "time": "2 years ago",
+      "title": "Bill Gates on the Future of AI",
+      "subtitle": "AI to transform health, education, and climate",
+      "w": "1093",
+      "h": "615"
+    }
+  ],
+"latest": [
+  {
+    "id": "1",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuynFr4f4kOha86IqQhcgjZXbA6fg-DEwpPA&s",
+    "category": "Technology",
+    "time": "1 month ago",
+    "title": "ChatGPT 5: A Leap in Conversational AI"
+  },
+  {
+    "id": "2",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdavVWbod8U4-jnR5fEKYWm8mJaHzm77_QQ&s",
+    "category": "Healthcare",
+    "time": "2 weeks ago",
+    "title": "AI in Medicine: Diagnosing with Precision"
+  },
+  {
+    "id": "3",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVQ0u6prD2QpcUgLbOJ95ykfGpx0900vu_A&s",
+    "category": "Robotics",
+    "time": "1 month ago",
+    "title": "The Future of Humanoid Robots in Society"
+  },
+  {
+    "id": "4",
+    "img": "https://d2fryjlmubyuuh.cloudfront.net/wp-content/uploads/2025/04/17063413/Group-481843-1.webp",
+    "category": "Startups",
+    "time": "3 weeks ago",
+    "title": "Top 5 AI Startups to Watch in 2025"
+  },
+  {
+    "id": "5",
+    "img": "https://www.creative-n.com/wp-content/uploads/2024/12/247-it-support-1024x604.png",
+    "category": "Trends",
+    "time": "5 days ago",
+    "title": "2025 Tech Trends: What's Coming Next"
+  },
+  {
+    "id": "6",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstzMHCq-oxDnRFi1k6VPWaPlqb4zAwYefLg&s",
+    "category": "Innovation",
+    "time": "2 days ago",
+    "title": "How AI Is Powering the Next Wave of Innovation"
+  },
+  {
+    "id": "7",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstzMHCq-oxDnRFi1k6VPWaPlqb4zAwYefLg&s",
+    "category": "Innovation",
+    "time": "2 days ago",
+    "title": "How AI Is Powering the Next Wave of Innovation"
+  }
+],
+  "entertainment": [
+    {
+      "id": "1",
+      "img": "https://vanhoaduongpho.com/storage/news/nhin-lai-su-nghiep-su-thinh-vuong-va-loi-song-cua-bieu-tuong-nhac-pop-bruno-mars_2646.jpg",
+      "category": "Entertainment",
+      "time": "6 years ago",
+      "title": "Nhìn lại sự nghiệp của ca sĩ biểu tượng - Bruno Mars"
+    },
+    {
+      "id": "2",
+      "img": "https://mvpthemes.com/zoxnews/wp-content/uploads/2017/07/women-party-590x354.jpg",
+      "category": "Entertainment",
+      "time": "3 years ago",
+      "title": "Girls Trip already surpasses Rough Night in opening weekend "
+    }
+  ],
+  "videos": [
+    {
+      "id": "1",
+      "img": "https://mvpthemes.com/zoxnews/wp-content/uploads/2017/07/superman-590x354.jpg",
+      "category": "Entertainment",
+      "time": "6 years ago",
+      "title": "Meet Superman`s grandfather in new trailer for Krypton"
+    },
+    {
+      "id": "2",
+      "img": "https://mvpthemes.com/zoxnews/wp-content/uploads/2017/07/couple-fashion2-300x180.jpg",
+      "category": "Entertainment",
+      "time": "6 years ago",
+      "title": "Disney`s live-action Aladdin finally finds its stars"
+    },
+    {
+      "id": "3",
+      "img": "https://mvpthemes.com/zoxnews/wp-content/uploads/2017/07/football-590x354.jpg",
+      "category": "Sports",
+      "time": "3 years ago",
+      "title": "Who are the early favorites to win the NFL rushing title?"
+    },
+    {
+      "id": "4",
+      "img": "https://mvpthemes.com/zoxnews/wp-content/uploads/2017/07/group-trio-300x180.jpg",
+      "category": "Entertainment",
+      "time": "1 years ago",
+      "title": "The old and New Edition cast comes together to perform"
+    }
+  ]
+
+}
